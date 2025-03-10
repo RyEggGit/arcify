@@ -9,3 +9,5 @@ version = "0.1.0"
 
 [dependencies]
 max = ">=25.2.0.dev2025030905,<26"
+numpy = ">=1.26.4,<2"
+opencv = ">=4.11.0,<5"

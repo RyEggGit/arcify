@@ -4,3 +4,10 @@
 *.egg-info
 # magic environments
 .magic
+
+# opencv models
+haarcascade_*.xml
+
+#images
+*.png
+*.jpg
